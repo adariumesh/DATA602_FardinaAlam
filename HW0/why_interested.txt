@@ -1,0 +1,2 @@
+Why are you interested in taking DATA602?
+I am interested in taking DATA602 because I want to build a strong foundation in the fundamental principles and techniques of data science. This course will equip me with essential skills in data analysis, visualization, and interpretation, which are crucial for tackling real-world data challenges. I believe that a solid understanding of these core concepts will not only enhance my ability to work effectively with data but also prepare me for more advanced topics in my Data Science program and future career.
